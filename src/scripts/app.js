@@ -5,6 +5,7 @@ require('./lib/iscroll-probe.js');
 require('./lib/swiper-3.3.1.min.js');
 
 // 引入views
+require('./views/object.js')
 require('./views/person.js')
 require('./views/search.js')
 require('./views/more.js')

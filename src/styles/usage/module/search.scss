@@ -1,0 +1,70 @@
+.m-index{
+  .l-container{
+  .m-search{
+    // @include ;
+     @include flexbox();
+     @include flex-direction(column);
+     width: 100%;
+     height: 100%;
+     header{
+       height: 0.44rem;
+       width: 100%;
+       background: #999;
+      //  text-align: center;
+       line-height: .44rem;
+       color: red;
+       ul{
+         @include flexbox();
+         li{
+           &:nth-child(1){
+             width:.44rem;
+             height: 100%;
+             color: #fff;
+             font-size: .3rem;
+             text-align: center;
+           }
+           &:nth-child(2){
+             @include flex(1);
+             padding-right: .44rem;
+             text-align: center;
+           }
+         }
+       }
+     }
+    section{
+      @include flex(1);
+      width: 100%;
+      background: #ccc;
+      padding: 2%;
+      @include box-sizing(border-box);
+      div{
+        width: 100%;
+        height: 50%;
+        background: #fff;
+        padding: 2%;
+        @include border-radius(.1rem);
+        @include box-sizing(border-box);
+        span{
+          display: block;
+          @include flexbox();
+          width: 100%;
+          height: .4rem;
+          input{
+            @include flex(8);
+            border: 0;
+          }
+          i{
+            @include flex(2);
+            text-align: center;
+            width: 100%;
+            font-size: .2rem;
+            line-height: .4rem;
+          }
+        }
+      }
+    }
+   }
+
+  }
+
+}

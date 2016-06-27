@@ -1,0 +1,90 @@
+<div class="m-home">
+  <header>
+    查字典-名人名言
+  </header>
+  <div class="swiper-container" id="index-swiper">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <img src="/food/img/1.jpg" />
+            <span>笑着哭最痛伤感句子</span>
+        </div>
+        <div class="swiper-slide">
+            <img src="/food/img/2.jpg" />
+            <span>关于邂逅唯美句子</span>
+        </div>
+        <div class="swiper-slide">
+            <img src="/food/img/3.jpg" />
+            <span>青春就是包住寂寞的琥珀</span>
+        </div>
+        <div class="swiper-slide">
+            <img src="/food/img/4.jpg" />
+            <span>牵手后分手伤感句子</span>
+        </div>
+    </div>
+    <!-- 如果需要分页器 -->
+    <div class="swiper-pagination"></div>
+
+  </div>
+  <section spa-widget="scroll">
+      <div>
+        <ul>
+          <li></li>
+          <li action-type='person'>
+            <img src="/food/img/1.png" alt="" />
+            <i>经典语录</i>
+          </li>
+          <li></li>
+          <li>
+            <img src="/food/img/2.png" alt="" />
+            <i>名人名言</i>
+          </li>
+          <li></li>
+          <li>
+            <img src="/food/img/3.png" alt="" />
+            <i>名言警句</i>
+          </li>
+          <li></li>
+        </ul>
+        <ul>
+          <li></li>
+          <li>
+            <img src="/food/img/4.png" alt="" />
+            <i>经典台词</i>
+          </li>
+          <li></li>
+          <li>
+            <img src="/food/img/5.png" alt="" />
+            <i>格言</i>
+          </li>
+          <li></li>
+          <li>
+            <img src="/food/img/6.png" alt="" />
+            <i>名人</i>
+          </li>
+          <li></li>
+        </ul>
+        <ul>
+          <li></li>
+          <li>
+            <img src="/food/img/7.png" alt="" />
+            <i>励志</i>
+          </li>
+          <li></li>
+          <li>
+            <img src="/food/img/8.png" alt="" />
+            <i>好句子</i>
+          </li>
+          <li></li>
+          <li>
+
+          </li>
+          <li></li>
+        </ul>
+
+
+
+
+      </div>
+
+  </section>
+</div>

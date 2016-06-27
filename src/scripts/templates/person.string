@@ -1,0 +1,53 @@
+<div class="m-person">
+  <header>
+    <ul>
+      <li action-type='back' class="yo-ico">&#xe611;</li>
+      <li>经典语录</li>
+    </ul>
+</header>
+<section>
+  <ul>
+    <li>
+      <img src="/food/img/1.png" alt="" />
+      <i>经典语录</i>
+    </li>
+    <li>
+      <img src="/food/img/2.png" alt="" />
+      <i>名人名言</i>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <img src="/food/img/1.png" alt="" />
+      <i>经典语录</i>
+    </li>
+    <li>
+      <img src="/food/img/2.png" alt="" />
+      <i>名人名言</i>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <img src="/food/img/1.png" alt="" />
+      <i>经典语录</i>
+    </li>
+    <li>
+      <img src="/food/img/2.png" alt="" />
+      <i>名人名言</i>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <img src="/food/img/1.png" alt="" />
+      <i>经典语录</i>
+    </li>
+    <li>
+      <img src="/food/img/2.png" alt="" />
+      <i>名人名言</i>
+    </li>
+  </ul>
+</section>
+</div>

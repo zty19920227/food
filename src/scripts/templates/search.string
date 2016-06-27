@@ -1,0 +1,17 @@
+<div class="m-search">
+  <header>
+    <ul>
+      <li class="yo-ico">&#xe611;</li>
+      <li>搜索</li>
+    </ul>
+  </header>
+  <section>
+    <div>
+      <span>
+        <input type="text" placeholder="请输入您要搜索的关键字">
+        <i class="yo-ico">&#x343b;</i>
+      </span>
+    </div>
+  </section>
+
+</div>

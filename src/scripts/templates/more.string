@@ -1,0 +1,22 @@
+<div class="m-more">
+  <header>
+    <ul>
+      <li class="yo-ico">&#xe611;</li>
+      <li>名人名言-更多</li>
+    </ul>
+  </header>
+  <section>
+    <div>
+      <ul>
+        <li>关于本app</li>
+        <li>更新日志</li>
+        <li>关于书生教育</li>
+        <li>关于查字典网</li>
+        <li>用户协议</li>
+        <li>商务合作</li>
+        <li>联系方式</li>
+      </ul>
+    </div>
+  </section>
+
+</div>

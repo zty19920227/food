@@ -1,0 +1,108 @@
+<div class="m-new">
+  <header>
+    <ul>
+      <li class="yo-ico">&#xe611;</li>
+      <li>最新</li>
+    </ul>
+</header>
+  <section spa-widget='scroll' data-scroll-id="homeHotScroll">
+    <div >
+      <div class="head">
+                      <img src="/food/img/arrow.png" width="40" height="40"/>
+                      <span>下拉刷新...</span>
+                  </div>
+                  <div ms-repeat-value="livelist">
+                    <a>
+                      <h3 ms-text="value[0].h3"></h3>
+                      <p ms-text="value[0].p"></p>
+                      <span ms-text="value[0].span"></span>
+                    </a>
+
+                  </div>
+                  <!-- <div ms-repeat-value="livelist">
+                    <a>
+                      <h3 ms-text="value[0].h3"></h3>
+                      <p ms-text="value[0].p"></p>
+                      <span ms-text="value[0].span"></span>
+                    </a>
+
+                  </div> -->
+                  <div class="foot">
+                      <img src="/food/img/arrow.png" width="40" height="40"/>
+                      <span>上拉加载更多...</span>
+                  </div>
+
+
+        <!-- <div>
+        <a href="#">
+          <h3>为人处世经典语录</h3>
+          <p>1、路的尽头，仍然是路，只需要你愿意走。
+              2、最了解你的人有时候不是你的朋友，而是你的敌人。
+              3、走路时，每跨一步，就如同把脚带到地面，我们...
+          </p>
+          <span>发布时间：2016-06-24 11：11</span>
+        </a>
+      </div>
+
+
+      <div>
+        <a href="#">
+          <h3>为人处世经典语录</h3>
+          <p>1、路的尽头，仍然是路，只需要你愿意走。
+              2、最了解你的人有时候不是你的朋友，而是你的敌人。
+              3、走路时，每跨一步，就如同把脚带到地面，我们...
+          </p>
+          <span>发布时间：2016-06-24 11：11</span>
+        </a>
+      </div>
+
+      <div>
+        <a href="#">
+          <h3>为人处世经典语录</h3>
+          <p>1、路的尽头，仍然是路，只需要你愿意走。
+              2、最了解你的人有时候不是你的朋友，而是你的敌人。
+              3、走路时，每跨一步，就如同把脚带到地面，我们...
+          </p>
+          <span>发布时间：2016-06-24 11：11</span>
+        </a>
+      </div>
+
+      <div>
+        <a href="#">
+          <h3>为人处世经典语录</h3>
+          <p>1、路的尽头，仍然是路，只需要你愿意走。
+              2、最了解你的人有时候不是你的朋友，而是你的敌人。
+              3、走路时，每跨一步，就如同把脚带到地面，我们...
+          </p>
+          <span>发布时间：2016-06-24 11：11</span>
+        </a>
+      </div>
+
+      <div>
+        <a href="#">
+          <h3>为人处世经典语录</h3>
+          <p>1、路的尽头，仍然是路，只需要你愿意走。
+              2、最了解你的人有时候不是你的朋友，而是你的敌人。
+              3、走路时，每跨一步，就如同把脚带到地面，我们...
+          </p>
+          <span>发布时间：2016-06-24 11：11</span>
+        </a>
+      </div>
+
+      <div>
+        <a href="#">
+          <h3>为人处世经典语录</h3>
+          <p>1、路的尽头，仍然是路，只需要你愿意走。
+              2、最了解你的人有时候不是你的朋友，而是你的敌人。
+              3、走路时，每跨一步，就如同把脚带到地面，我们...
+          </p>
+          <span>发布时间：2016-06-24 11：11</span>
+        </a>
+      </div> -->
+
+    </div>
+
+
+  </section>
+
+</div>
